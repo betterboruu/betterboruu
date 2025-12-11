@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository has been archived, as the project is continued at [chipfucker/chipbooru](https://github.com/chipfucker/chipbooru).
+
 <img src="/logo/betterboruu.png" alt="Logo" width="384" />
 
 # Thanks for using BetterBooru!
